@@ -1,3 +1,8 @@
-title: 'Zero Meetings Proof'
-description: 'A new blockchain scalability solution'
-theme: jekyll-theme-cayman
+theme:      jekyll-theme-cayman
+
+title:      Zero Meetings Proof
+tagline:    A new Blockchain Scalability Solution
+
+author:
+  name:       Raman Shalupau
+  url:        https://ksaitor.com
