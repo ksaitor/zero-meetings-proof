@@ -22,7 +22,7 @@ In order to successfully integrate ZMP in your project, you will require
 ## 2. Benefits
 By avoiding meetings you and your engineers will be able to actually get stuff done and scale your system 10-100x. 
 
-> …wip. This is still a *draft* of Zero Meetings Proof scalability proposal. You contributions count!
+> …wip. This is still a *draft* of Zero Meetings Proof scalability proposal. Your contributions count!
 
 ### Contributions
 You can contribute to this manifesto via [editor on GitHub](https://github.com/ksaitor/zeromeetingsproof/edit/master/README.md).
