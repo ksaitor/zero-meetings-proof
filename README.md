@@ -6,5 +6,10 @@
 
 [#zeromeetingsproof](https://twitter.com/hashtag/zeromeetingsproof)
 
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aaa6119b48105d0"></script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_inline_share_toolbox"></div>
+
 ### Contributions
 You can contribute to this manifesto via [editor on GitHub](https://github.com/ksaitor/zeromeetingsproof/edit/master/README.md).
