@@ -18,7 +18,11 @@ In order to successfully integrate ZMP in your project, you will require
 1. a project that is gaining enough traction for people to be willing to invite you or your engineers to "grab a coffee and chat"
 1. a few competent engineers, that are already working on scalability problems
 1. willpower to say "NO"
-…wip
+
+## 2. Benefits
+By avoiding meetings you and your engineers will be able to actually get stuff done and scale your system 10-100x. 
+
+> …wip. This is still a *draft* of Zero Meetings Proof scalability proposal. You contributions count!
 
 ### Contributions
 You can contribute to this manifesto via [editor on GitHub](https://github.com/ksaitor/zeromeetingsproof/edit/master/README.md).
