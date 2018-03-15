@@ -24,9 +24,9 @@ In order to successfully integrate ZMP in your project, you will require
 
 1. *Most* of the meetups are dumb. They don't add any real value to your life, rather, they create this fictional bubble in your head that makes you believe you are important and being productive. **STOP** Right there. It's a trap. 
  
-2. Zero meetups = More time = Balanced work life = More Sleep = Health = Increased productivity. [QUICK MATHS](https://www.youtube.com/watch?v=X09oxyIeGuY) :beer:
+2. Zero meetups = More time = Balanced work life = More Sleep = Health = Increased productivity. [QUICK MATHS](https://www.youtube.com/watch?v=X09oxyIeGuY) 🍺
 
-3. Save dumb travel expenses. Buy :beer: instead. 
+3. Save dumb travel expenses. Buy 🍻 instead. 
 
 > …wip. This is still a *draft* of Zero Meetings Proof scalability proposal. Your contributions count!
 
